@@ -1,1 +1,1 @@
-# mimc-feistel
+# MiMC in Feistel mode
