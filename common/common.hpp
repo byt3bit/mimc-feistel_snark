@@ -8,9 +8,11 @@
 #include <vector>
 #include <string>
 #include <cstdio>
+#include <cstring>
 #include <stdint.h>
 #include <initializer_list>
 #include <bitset>           /*used in random bit generation*/
+#include <algorithm> //for std::max function
 
 
 #include <type_traits>      /* used for type checking in tamplate function*/
