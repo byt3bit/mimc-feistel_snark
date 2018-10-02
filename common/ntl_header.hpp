@@ -14,4 +14,6 @@
 #include <NTL/ZZ.h>
 #include <NTL/matrix.h>
 #include <NTL/mat_GF2E.h>
+#include <NTL/vec_ZZ_p.h>
+#include <NTL/mat_ZZ_p.h>
 #endif
