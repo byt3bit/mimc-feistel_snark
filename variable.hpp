@@ -148,7 +148,7 @@ namespace snark {
       return lin_terms.size();
     }
     
-    void add_term(const linear_term< field_t > &lterm); 
+    void add_term(const linear_term< field_t > &lterm);
 
     void reset(linear_combination < field_t > &other); 
 
