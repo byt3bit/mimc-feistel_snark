@@ -1,1 +1,1 @@
-# MiMC in (unbalanced) Feistel mode
+# MiMC in Feistel and unbalanced Feistel mode
